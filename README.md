@@ -1,6 +1,6 @@
 # NumberGuessingGame
 
-A game where you choose the range of numbers you want to guess from and
+An interactive game where you choose the range of numbers you want to guess from and
 how many guesses you have. 
 
-This was made with Python.
+This was made from scratch with Python.
